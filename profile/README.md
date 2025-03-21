@@ -57,5 +57,7 @@ Ao criar um novo projeto:
 
 ## 📬 Dúvidas ou sugestões?
 
+**Caso tenha dificuldades para utilizar o github, acesse o link [**Comandos Basicos**](https://gist.github.com/leocomelli/2545add34e4fec21ec16) para esclarecimentos.**
+
 Fique à vontade para abrir uma *issue* ou entrar em contato com o time de dados.  
 Estamos sempre abertos a melhorias, novas ideias e boas conversas! 😄
