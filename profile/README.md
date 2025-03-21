@@ -7,16 +7,6 @@ Nosso objetivo é **criar soluções que melhorem a tomada de decisão**, otimiz
 
 ---
 
-## 🚀 O que você vai encontrar aqui?
-
-- **Dashboards e visualizações interativas**
-- **Pipelines de dados (ETL/ELT)**
-- **Automatizações de processos**
-- **Análises exploratórias e modelos preditivos**
-- **Padronizações e boas práticas de engenharia e ciência de dados**
-
----
-
 ### ⚙️ Linguagens e Ferramentas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -26,6 +16,16 @@ Nosso objetivo é **criar soluções que melhorem a tomada de decisão**, otimiz
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 🚀 O que você vai encontrar aqui?
+
+- **Dashboards e visualizações interativas**
+- **Pipelines de dados (ETL/ELT)**
+- **Automatizações de processos**
+- **Análises exploratórias e modelos preditivos**
+- **Padronizações e boas práticas de engenharia e ciência de dados**
 
 ---
 
