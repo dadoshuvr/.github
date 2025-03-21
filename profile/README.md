@@ -1,12 +1,26 @@
-## Hi there 👋
+# 🏥 Dados - Unimed Volta Redonda
 
-<!--
+**Bem-vindo ao nosso perfil!**  
+Aqui você encontrará projetos estratégicos para gestão de dados na área de saúde, focados em **hospitais** e **operações da operadora**.
 
-**Here are some ideas to get you started:**
+---
+📌 **Veja os repositórios** separados com pin: **"hospital"** e **gps**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+📌 **Siga o nosso padrão** de prefixos sendo: **DASH-** e **ETL-**  "
+
+---
+
+## 🛠️ Como Contribuir
+### **1. Padrão de Commits**  
+Siga rigorosamente nosso guia:  
+[pacote-commitizen](https://github.com/iuryescano/padroes-de-commits)  
+
+### **2. Prefixos Obrigatórios**  
+- `DASH-`: Projetos de dashboards/visualização de dados  
+- `ETL-`: Projetos de transformação e carga de dados  
+
+
+### **📊 Ao criar repositório é obrigatório a criação de tópico**  
+
+**Estrutura de Tópicos**
+**"hospital"** e **gps**
